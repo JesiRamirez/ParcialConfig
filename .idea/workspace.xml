@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b28875ab-2507-4549-a1a7-2a6fe9ad3212" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/series-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/series-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
