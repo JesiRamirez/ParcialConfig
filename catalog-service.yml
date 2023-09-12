@@ -8,9 +8,11 @@ spring:
       version: 4.0.2
   data:
     mongodb:
-      database: test
-      host: localhost
-      port: 27018
+      uri: mongodb://localhost:27018/catalog
+    username: root
+    password: root
+    authentication-database: admin
+    port: 27018
 
 eureka:
   client:
